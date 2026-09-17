@@ -1,2 +1,3 @@
-# creed179.github.io
-Stoneleigh Capital — thoughts, moves, and long-term capital from Maryland.
+# Stoneleigh Capital
+
+Public site for thoughts and moves. Live at https://creed179.github.io/
